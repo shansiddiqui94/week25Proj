@@ -1,12 +1,24 @@
 {
   "name": "week25",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shansiddiqui94/week25Proj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shansiddiqui94/week25Proj/issues"
+  },
+  "homepage": "https://github.com/shansiddiqui94/week25Proj#readme",
+  "description": "",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "mongoose": "^5.12.7"
+  }
 }
